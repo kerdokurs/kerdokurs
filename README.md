@@ -3,7 +3,7 @@
 ### I'm a self-taught programmer
 
 - 💻 Working mostly on web projects
-- 👯 Open for collaborating
+- 👯 Open to collaborations
 - 🎸 Musician
 - 🎓 University of Tartu
 

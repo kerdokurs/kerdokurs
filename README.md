@@ -1,6 +1,6 @@
-### Hi, I'm [Kerdo][website]
+## Hi, I'm [Kerdo][website]
 
-## I'm a self-taught programmer
+### I'm a self-taught programmer
 
 - 💻 Working mostly on web projects
 - 👯 Open for collaborating
